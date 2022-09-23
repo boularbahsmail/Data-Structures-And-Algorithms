@@ -1,5 +1,3 @@
-package com.ds;
-
 public class SimpleArray {
   public static void main(String[] args) {
     // Init an array
